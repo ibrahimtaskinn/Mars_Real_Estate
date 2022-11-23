@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Mars Real Estate</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mars_estate">MARS ESTATE</string>
+    <string name="get_started_info_text">Let’s Explore the\nSolar System\nwith Explorer</string>
+    <string name="get_started_button_text">Get Started</string>
+    <string name="buy_now_be_a_martian">BUY NOW, BE A MARTIAN</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="detail_scren_for_rent">For</string>
+    <string name="html" tools:ignore="Typos"><![CDATA[<p><font font family:@font/opensans_extrabold color=#000>Let’s Explore the</font><br><b><font color=#F9AD1A>Solar System</font><b><br><b><font color=#000>with</font><font color=#F9AD1A> Explorer</font><b></p>]]></string>
+    <string name="pay_now">PAY NOW</string>
+    <string name="payout">Payout</string>
+    <string name="pay_out_your_balance_now">Pay out your balance now</string>
+    <string name="payment_confirmed">Payment Confirmed</string>
+</resources>
